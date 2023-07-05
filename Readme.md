@@ -19,7 +19,7 @@ NFCCompose is an Android app that serves as a code example on how to use the NFC
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/NFCCompose.git
+git clone git@github.com:josermartinez/NFCCompose.git
 ```
 
 2. Open the project in Android Studio.
